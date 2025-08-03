@@ -5,6 +5,5 @@ Team Members:
 - Trần Ngọc Huy
 - Nguyễn Trương Thiện Nhân
 - Chế Mậu Hành
-- Nguyễn Đức Tuyên
-
+- Đỗ Nguyễn Thành Nguyên
 The system helps staff and readers more conveniently use the library.
